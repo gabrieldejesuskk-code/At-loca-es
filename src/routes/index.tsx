@@ -146,6 +146,7 @@ function Index() {
       <main className="mx-auto w-full max-w-6xl px-4 py-8 sm:px-7 sm:py-14">
         <section className="overflow-hidden rounded-2xl border border-[#e7eeea] bg-white shadow-[0_8px_30px_rgba(18,59,54,0.05)]">
           <div className="p-7 sm:p-10">
+            <p className="mb-3 inline-flex rounded-full border border-[#c9ded3] bg-[#edf5f0] px-3 py-1 text-[10px] font-bold uppercase tracking-[0.12em] text-[#285b49]">Atualização de teste via GitHub · 10/11/2026</p>
             <p className="text-[11px] font-bold uppercase tracking-[0.18em] text-[#648077]">
               AT Locações
             </p>
